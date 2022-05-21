@@ -1,0 +1,7 @@
+{
+  "name": "moveiApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
